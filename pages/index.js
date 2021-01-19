@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
       <p>GaddBox Team We Rock!</p>
       <p>
         (This is my first Project using
-        <a href="https://nextjs.org/learn">Next.js tutorial</a>.)
+        <a href="https://nextjs.org/learn"> Next.js tutorial</a>.)
       </p>
     </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
